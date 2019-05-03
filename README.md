@@ -10,3 +10,4 @@
 
 ### StackBlitz
 <a href="https://stackblitz.com/edit/pi-approximation?embed=1&file=index.ts&hideExplorer=1">StackBlitz</a>
+<embed src="https://stackblitz.com/edit/pi-approximation?embed=1&file=index.ts&hideExplorer=1">StackBlitz</a>
