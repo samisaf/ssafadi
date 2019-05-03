@@ -9,9 +9,6 @@
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ### StackBlitz
+<iframe src="https://stackblitz.com/edit/pi-approximation?embed=1&file=index.ts&hideExplorer=1;hidedevtools=1" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 10px; border-radius: 3px; height: 400px; width: 100%; margin: 50px 0px 60px;"></iframe>
+
 <a href="https://stackblitz.com/edit/pi-approximation?embed=1&file=index.ts&hideExplorer=1">StackBlitz</a>
-<embed src="https://stackblitz.com/edit/pi-approximation?embed=1&file=index.ts&hideExplorer=1">StackBlitz</embed>
-
-<iframe src="https://stackblitz.com/edit/pi-approximation?embed=1&file=index.ts&hideExplorer=1">StackBlitz</iframe>
-
-<object src="https://stackblitz.com/edit/pi-approximation?embed=1&file=index.ts&hideExplorer=1">StackBlitz</object>
