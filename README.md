@@ -9,4 +9,4 @@
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ### StackBlitz
-<iframe src="https://stackblitz.com/edit/pi-approximation?embed=1&file=index.ts&hideExplorer=1" style="height: 400px; width: 100%; box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 10px; border-radius: 3px;"></iframe>
+<iframe src="https://stackblitz.com/edit/pi-approximation?embed=1" style="height: 500px; width: 100%; box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 10px; border-radius: 3px; border-style: none;"></iframe>
